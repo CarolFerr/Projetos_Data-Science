@@ -3,6 +3,8 @@
 
 ## Dados históricos da: Unilever PLC (UL)
 
+![prediction_linear_regression.png](https://github.com/CarolFerr/Projetos_Data-Science/blob/main/Iniciante/predictive_analysis_unilever_shares/prediction_linear_regression.png)
+
 ## PT-BR
 
 ## 📝 Descrição
