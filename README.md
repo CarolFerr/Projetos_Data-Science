@@ -6,7 +6,7 @@ Ao longo dos projetos, você verá como aprimorei minhas habilidades em coleta, 
 
 # Niveis de Complexidade/Dificuldade:
 ## 🟢 Iniciante
-1. [*Análise de Preços de Ações/ Share Price Analysis*]()
+1. [*Análise de Preços de Ações/ Share Price Analysis*](https://github.com/CarolFerr/Projetos_Data-Science/tree/main/Iniciante/predictive_analysis_unilever_shares)
 
 
  
